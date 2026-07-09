@@ -1,8 +1,8 @@
-Origin: DeviceToolPro VIP
-Label: DeviceToolPro VIP
+Origin: DeviceToolPro Plus
+Label: DeviceToolPro Plus
 Suite: stable
 Version: 1.0
-Codename: vip
+Codename: plus
 Architectures: iphoneos-arm iphoneos-arm64 iphoneos-arm64e
 Components: main
-Description: Repo DeviceToolPro VIP Official
+Description: Repo DeviceToolPro Plus Official
