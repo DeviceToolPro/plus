@@ -28,13 +28,13 @@ Section: Utilities
 Depends: firmware (>= 15.0), ellekit, ldid, openssh, ws.hbang.newterm3, sqlite3, adv-cmds, coreutils, system-cmds, network-cmds, shell-cmds, dpkg, preferenceloader, ca-certificates
 Recommends: com.tigisoftware.filza
 Architecture: iphoneos-arm64
-Version: 0.20.1-1+debug
-Installed-Size: 1564
-Filename: debs/com.ban.devicetool_0.20.1-1+debug.deb
-Size: 376694
-MD5sum: 8c45df017d1bf2efcfa57201f0559dcd
-SHA1: a1a1af0fd38e1cc2b0a7da8dc7579c6215496b5e
-SHA256: 48f895475bd3c92449b971f651e934848e93029092ef9fcd9e6557f26159d7d2
+Version: 0.21.1-1+debug
+Installed-Size: 1584
+Filename: debs/com.ban.devicetool_0.21.1-1+debug.deb
+Size: 379652
+MD5sum: e048ce2cf342388f3b11131814d59de1
+SHA1: e466b87d55adb2e1c57ec8892717a326646ec4f2
+SHA256: 768143da49ed9c0ca9cdb950f0ca63e7e786a4c583f1af7321b49493f46912ef
 
 Package: com.ban.devicetool
 Name: DeviceTool
@@ -45,11 +45,11 @@ Section: Utilities
 Depends: firmware (>= 15.0), ellekit, ldid, openssh, ws.hbang.newterm3, sqlite3, adv-cmds, coreutils, system-cmds, network-cmds, shell-cmds, dpkg, preferenceloader, ca-certificates
 Recommends: com.tigisoftware.filza
 Architecture: iphoneos-arm64
-Version: 0.22.1-1+debug
-Installed-Size: 1564
-Filename: debs/com.ban.devicetool_0.22.1-1+debug.deb
-Size: 375884
-MD5sum: eeab4492db449595abe4812990f8a886
-SHA1: ddf56ba40e5233e8a91bd3d4181d95b0153724dd
-SHA256: 9b23f0663584f7af164ab14ec84a87dad2db6ce05bf78cd6be574c02b7300bb5
+Version: 0.30.1-1+debug
+Installed-Size: 1584
+Filename: debs/com.ban.devicetool_0.30.1-1+debug.deb
+Size: 380376
+MD5sum: f29bde967c52b7cdb3597516568ddd60
+SHA1: a0553fc54661ad8ec708593a4f3ee339f1a4fd61
+SHA256: 69a5cbbb5be60a2b7aa27547e25e8781242eb506f5dc5b070b1d7e2a70d9b669
 
