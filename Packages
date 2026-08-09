@@ -1,0 +1,17 @@
+Package: com.ban.devicetool
+Name: DeviceTool
+Description: An awesome application for Device Management!
+Maintainer: LeHong
+Author: LeHong
+Section: Utilities
+Depends: firmware (>= 15.0), ellekit, ldid, openssh, ws.hbang.newterm3, sqlite3, adv-cmds, coreutils, system-cmds, network-cmds, shell-cmds, dpkg, preferenceloader, ca-certificates
+Recommends: com.tigisoftware.filza
+Architecture: iphoneos-arm64
+Version: 0.45.1-1+debug
+Installed-Size: 1608
+Filename: debs_Plus/com.ban.devicetool_0.45.1-1+debug.deb
+Size: 387816
+MD5sum: 736cab72ecd9d09d6c0c5c1747e9cacd
+SHA1: 90a74f047de98396c8bc8aecb26293ca47a6da4a
+SHA256: a2725dfc7accf3177b3c09334181c6e1fc65ce08e0b3e6c22fa9c19f4d5f190b
+
