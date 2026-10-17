@@ -1,0 +1,32 @@
+Package: com.ban.devicebackup
+Name: Device Backup
+Description: Standalone per-app backup, restore and wipe utility for DeviceTool.
+Maintainer: LeHong
+Author: LeHong
+Section: Utilities
+Depends: firmware (>= 15.0), ldid
+Architecture: iphoneos-arm64
+Version: 1.0.0-24-8+debug
+Installed-Size: 1080
+Filename: debs_Plus/com.ban.devicebackup_1.0.0-24-8+debug.deb
+Size: 311772
+MD5sum: 19df7887a934afbf317d3f3875e1bac0
+SHA1: 369b67078828f42c1f0df3abe6174b36c9626d7b
+SHA256: a45b2e405de0bfd0c699a5958e08e041b87adb753dc2e75a6d38045e38ca0831
+
+Package: com.ban.devicetool
+Name: DeviceTool
+Description: An awesome application for Device Management!
+Maintainer: LeHong
+Author: LeHong
+Section: Utilities
+Depends: firmware (>= 15.0), ellekit, ldid, openssh, sqlite3, adv-cmds, coreutils, system-cmds, network-cmds, shell-cmds, ca-certificates, com.tigisoftware.filza
+Architecture: iphoneos-arm64
+Version: 0.101.1-13+debug
+Installed-Size: 2536
+Filename: debs_Plus/com.ban.devicetool_0.101.1-13+debug.deb
+Size: 590104
+MD5sum: 8ce8895ab0728250d64f8c011fc7b88c
+SHA1: 9d1b537dafda752b34c3aca1828d38d53dddc343
+SHA256: 17216ae769c3c38a54cca2ea72b222f70a19f0cfc664f587e006fa56542bccaa
+
