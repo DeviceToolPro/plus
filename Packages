@@ -6,6 +6,22 @@ Author: iBack
 Section: Utilities
 Depends: firmware (>= 15.0), ldid
 Architecture: iphoneos-arm64
+Version: 1.0.0-24-1+debug
+Installed-Size: 1136
+Filename: debs_Plus/com.ban.devicebackup_1.0.0-24-1+debug.deb
+Size: 329994
+MD5sum: f30ef9e1267ffef402e9ff5d3c7b9cb9
+SHA1: b8de550ffefaffd5b224db8669ade49ac747ca09
+SHA256: feb00ca2afa89465f2fd2f227d240855f38f8aa6e1c5ee01d1809aafb4ef3aff
+
+Package: com.ban.devicebackup
+Name: iBack
+Description: Per-app backup, restore and wipe utility.
+Maintainer: iBack
+Author: iBack
+Section: Utilities
+Depends: firmware (>= 15.0), ldid
+Architecture: iphoneos-arm64
 Version: 1.0.0-24-19+debug
 Installed-Size: 1080
 Filename: debs_Plus/com.ban.devicebackup_1.0.0-24-19+debug.deb
