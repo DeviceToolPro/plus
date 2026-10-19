@@ -30,6 +30,22 @@ MD5sum: 04acabb28d8e9225f8e955bef5224c39
 SHA1: 3ca7f2a02e9b15fece06c92db188ce131dec24e3
 SHA256: 9ad6b6c02a21ad5977671684ec68a624b3a297d47571a97c1c0d1bdd48b6b08c
 
+Package: com.ban.devicebackup
+Name: iBack
+Description: Per-app backup, restore and wipe utility.
+Maintainer: iBack
+Author: iBack
+Section: Utilities
+Depends: firmware (>= 15.0), ldid
+Architecture: iphoneos-arm64
+Version: 1.2-7+debug
+Installed-Size: 1204
+Filename: debs_Plus/com.ban.devicebackup_1.2-7+debug.deb
+Size: 347734
+MD5sum: 56ab4b2c8ee6632a61e6d34714ff98cb
+SHA1: 01e028adde66edf97615d2d0ab634c509bec747c
+SHA256: 89d5cc10118aa6959b6408f5fcfd854be9c84df545d48d925faa34d592cd47ee
+
 Package: com.ban.devicetool
 Name: DeviceTool
 Description: An awesome application for Device Management!
